@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.52762df1.css",
-    "main.js": "/portfolio/static/js/main.a89dcc91.js",
+    "main.js": "/portfolio/static/js/main.a5caf189.js",
     "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/LinkedIn_Profile.png": "/portfolio/static/media/LinkedIn_Profile.88074ac34ea08586600a.png",
     "static/media/mock10.png": "/portfolio/static/media/mock10.2d05b02ba569a430a255.png",
@@ -16,14 +16,15 @@
     "static/media/mock02.png": "/portfolio/static/media/mock02.bced48ae9cdda3acf1a3.png",
     "static/media/mock03.png": "/portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
     "static/media/AVL_Reference.png": "/portfolio/static/media/AVL_Reference.6b53754dfe601dacb689.png",
+    "static/media/LBR_Logo.png": "/portfolio/static/media/LBR_Logo.ee8c277fa885d2cc998c.png",
     "static/media/BLT_Logo.png": "/portfolio/static/media/BLT_Logo.9489d26c0c2a8ad7fa32.png",
     "index.html": "/portfolio/index.html",
     "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
-    "main.a89dcc91.js.map": "/portfolio/static/js/main.a89dcc91.js.map",
+    "main.a5caf189.js.map": "/portfolio/static/js/main.a5caf189.js.map",
     "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52762df1.css",
-    "static/js/main.a89dcc91.js"
+    "static/js/main.a5caf189.js"
   ]
 }
