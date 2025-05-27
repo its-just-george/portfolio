@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.52762df1.css",
-    "main.js": "/portfolio/static/js/main.70b12199.js",
+    "main.js": "/portfolio/static/js/main.cc8fff75.js",
     "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/LinkedIn_Profile.png": "/portfolio/static/media/LinkedIn_Profile.88074ac34ea08586600a.png",
     "static/media/mock10.png": "/portfolio/static/media/mock10.2d05b02ba569a430a255.png",
@@ -17,14 +17,15 @@
     "static/media/mock03.png": "/portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
     "static/media/AVL_Reference.png": "/portfolio/static/media/AVL_Reference.6b53754dfe601dacb689.png",
     "static/media/LBR_Logo.png": "/portfolio/static/media/LBR_Logo.ee8c277fa885d2cc998c.png",
+    "static/media/Benmo_Logo.png": "/portfolio/static/media/Benmo_Logo.41ae26a76e1d69b1842f.png",
     "static/media/BLT_Logo.png": "/portfolio/static/media/BLT_Logo.2201d97fb175eaa5c12d.png",
     "index.html": "/portfolio/index.html",
     "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
-    "main.70b12199.js.map": "/portfolio/static/js/main.70b12199.js.map",
+    "main.cc8fff75.js.map": "/portfolio/static/js/main.cc8fff75.js.map",
     "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52762df1.css",
-    "static/js/main.70b12199.js"
+    "static/js/main.cc8fff75.js"
   ]
 }
