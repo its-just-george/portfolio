@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.52762df1.css",
-    "main.js": "/portfolio/static/js/main.76efa0a7.js",
+    "main.js": "/portfolio/static/js/main.a17e14e2.js",
     "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/LinkedIn_Profile.png": "/portfolio/static/media/LinkedIn_Profile.88074ac34ea08586600a.png",
     "static/media/VSP_UAV.png": "/portfolio/static/media/VSP_UAV.4a7f060fa78db49893ea.png",
@@ -10,17 +10,23 @@
     "static/media/Piston_System.png": "/portfolio/static/media/Piston_System.4cf0a6d456be303d6f0c.png",
     "static/media/mock05.png": "/portfolio/static/media/mock05.4faafa70d200d1519a34.png",
     "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Matlab_Logo.png": "/portfolio/static/media/Matlab_Logo.9ef97bd21cefdeab24d9.png",
     "static/media/Airfoil_Selection.png": "/portfolio/static/media/Airfoil_Selection.07d2a162d1254a9977ef.png",
+    "static/media/Python_Logo.png": "/portfolio/static/media/Python_Logo.d771446fe56d8b7656fe.png",
     "static/media/AVL_Reference.png": "/portfolio/static/media/AVL_Reference.6b53754dfe601dacb689.png",
+    "static/media/Inventor_Pro_Logo.png": "/portfolio/static/media/Inventor_Pro_Logo.f0acf534d18ff55c36c5.png",
+    "static/media/Ansys_Logo.png": "/portfolio/static/media/Ansys_Logo.009613466cf58ff24920.png",
+    "static/media/OpenRocket_Logo.png": "/portfolio/static/media/OpenRocket_Logo.8644574f75eae5c5a43e.png",
+    "static/media/SolidWorks_Logo.png": "/portfolio/static/media/SolidWorks_Logo.fab9bf3c1d1f48bbe8f6.png",
     "static/media/BLT_Logo_Fit.png": "/portfolio/static/media/BLT_Logo_Fit.2201d97fb175eaa5c12d.png",
     "static/media/LBR_Logo_Fit.png": "/portfolio/static/media/LBR_Logo_Fit.42e38a125bc6112a7fe4.png",
     "index.html": "/portfolio/index.html",
     "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
-    "main.76efa0a7.js.map": "/portfolio/static/js/main.76efa0a7.js.map",
+    "main.a17e14e2.js.map": "/portfolio/static/js/main.a17e14e2.js.map",
     "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52762df1.css",
-    "static/js/main.76efa0a7.js"
+    "static/js/main.a17e14e2.js"
   ]
 }
