@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.52762df1.css",
-    "main.js": "/portfolio/static/js/main.6ce223de.js",
+    "main.js": "/portfolio/static/js/main.dc70c039.js",
     "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/LinkedIn_Profile.png": "/portfolio/static/media/LinkedIn_Profile.88074ac34ea08586600a.png",
     "static/media/VSP_UAV.png": "/portfolio/static/media/VSP_UAV.4a7f060fa78db49893ea.png",
@@ -14,6 +14,7 @@
     "static/media/Matlab_Logo.png": "/portfolio/static/media/Matlab_Logo.8eed73a538d743f5f762.png",
     "static/media/Python_Logo.png": "/portfolio/static/media/Python_Logo.d771446fe56d8b7656fe.png",
     "static/media/AVL_Reference.png": "/portfolio/static/media/AVL_Reference.6b53754dfe601dacb689.png",
+    "static/media/Teams_Logo.png": "/portfolio/static/media/Teams_Logo.0edf0342e5fe42492c8e.png",
     "static/media/Powerpoint_Logo.png": "/portfolio/static/media/Powerpoint_Logo.32cedd53adcb3d60b979.png",
     "static/media/Inventor_Pro_Logo.png": "/portfolio/static/media/Inventor_Pro_Logo.841f0d832192f8cdd4f1.png",
     "static/media/OpenRocket_Logo.png": "/portfolio/static/media/OpenRocket_Logo.52a1795ebbbb203b22c7.png",
@@ -26,11 +27,11 @@
     "static/media/LBR_Logo_Fit.png": "/portfolio/static/media/LBR_Logo_Fit.42e38a125bc6112a7fe4.png",
     "index.html": "/portfolio/index.html",
     "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
-    "main.6ce223de.js.map": "/portfolio/static/js/main.6ce223de.js.map",
+    "main.dc70c039.js.map": "/portfolio/static/js/main.dc70c039.js.map",
     "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52762df1.css",
-    "static/js/main.6ce223de.js"
+    "static/js/main.dc70c039.js"
   ]
 }
