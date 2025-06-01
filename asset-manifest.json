@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5e27088a.css",
+    "main.css": "/portfolio/static/css/main.52762df1.css",
     "main.js": "/portfolio/static/js/main.5d24b234.js",
     "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/LinkedIn_Profile.png": "/portfolio/static/media/LinkedIn_Profile.88074ac34ea08586600a.png",
@@ -26,12 +26,12 @@
     "static/media/SolidWorks_Logo.png": "/portfolio/static/media/SolidWorks_Logo.5ec939b1755cd353a272.png",
     "static/media/LBR_Logo_Fit.png": "/portfolio/static/media/LBR_Logo_Fit.42e38a125bc6112a7fe4.png",
     "index.html": "/portfolio/index.html",
-    "main.5e27088a.css.map": "/portfolio/static/css/main.5e27088a.css.map",
+    "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
     "main.5d24b234.js.map": "/portfolio/static/js/main.5d24b234.js.map",
     "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e27088a.css",
+    "static/css/main.52762df1.css",
     "static/js/main.5d24b234.js"
   ]
 }
