@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2c5491ea.css",
-    "main.js": "/portfolio/static/js/main.07c352c9.js",
+    "main.css": "/portfolio/static/css/main.539e0b82.css",
+    "main.js": "/portfolio/static/js/main.7470fb38.js",
     "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/LinkedIn_Profile.png": "/portfolio/static/media/LinkedIn_Profile.88074ac34ea08586600a.png",
     "static/media/VSP_UAV.png": "/portfolio/static/media/VSP_UAV.4a7f060fa78db49893ea.png",
@@ -22,14 +22,16 @@
     "static/media/Onshape_Logo.png": "/portfolio/static/media/Onshape_Logo.1be1f0f57b69cab761d9.png",
     "static/media/Word_Logo.png": "/portfolio/static/media/Word_Logo.a9f24f2cc2784ec4d148.png",
     "static/media/Excel_Logo.png": "/portfolio/static/media/Excel_Logo.f4e002966f5549f0dbd6.png",
+    "static/media/BLT_Logo_Fit.png": "/portfolio/static/media/BLT_Logo_Fit.2201d97fb175eaa5c12d.png",
     "static/media/SolidWorks_Logo.png": "/portfolio/static/media/SolidWorks_Logo.5ec939b1755cd353a272.png",
+    "static/media/LBR_Logo_Fit.png": "/portfolio/static/media/LBR_Logo_Fit.42e38a125bc6112a7fe4.png",
     "index.html": "/portfolio/index.html",
-    "main.2c5491ea.css.map": "/portfolio/static/css/main.2c5491ea.css.map",
-    "main.07c352c9.js.map": "/portfolio/static/js/main.07c352c9.js.map",
+    "main.539e0b82.css.map": "/portfolio/static/css/main.539e0b82.css.map",
+    "main.7470fb38.js.map": "/portfolio/static/js/main.7470fb38.js.map",
     "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c5491ea.css",
-    "static/js/main.07c352c9.js"
+    "static/css/main.539e0b82.css",
+    "static/js/main.7470fb38.js"
   ]
 }
